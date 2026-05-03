@@ -240,6 +240,44 @@ footer {
 .breadcrumb a:hover { color: var(--primary); }
 .breadcrumb span { margin: 0 0.5rem; }
 
+/* Case Study Images */
+.use-case-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.use-case:hover .use-case-img {
+    transform: scale(1.02);
+}
+
+.service-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+    object-fit: cover;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.case-header-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 16px;
+    margin-bottom: 1rem;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+}
+
+@media (max-width: 768px) {
+    .case-header-img {
+        height: 200px;
+    }
+}
+
 /* --- Mobile Nav Active --- */
 @media (max-width: 768px) {
     .nav-links.active {
