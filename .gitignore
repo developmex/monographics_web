@@ -1,0 +1,17 @@
+# Gitignore para Monographics Web
+
+# Plan de visibilidad privado
+visibility_plan.md
+
+# Directorios de trabajo locales
+backup/
+scratch/
+.gemini/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Credenciales (si las hubiera)
+*.env
+*.key

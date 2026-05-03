@@ -1,0 +1,37 @@
+# Monographics
+
+> Monographics es una consultoría de IA agéntica con sede en Monterrey, México. Diseñamos, construimos y operamos agentes autónomos de inteligencia artificial para empresas que necesitan automatizar procesos complejos sin escalar equipos. Nuestro stack incluye Claude, Open-Claw, Antigravity, OpenCode, Hermes, n8n y Django.
+
+## Servicios principales
+- [Auditoría de automatización con IA](https://monographics.com.mx/servicios.html): Mapeamos procesos, identificamos cuellos de botella y diseñamos un roadmap de automatización con ROI estimado. Desde $2,000 USD.
+- [Diseño de arquitectura multi-agente](https://monographics.com.mx/servicios.html): Definimos qué LLM usa cada agente, cómo se comunican, qué herramientas acceden y cómo escalan. Desde $5,000 USD.
+- [Implementación de agentes autónomos](https://monographics.com.mx/servicios.html): Construimos agentes de producción para prospección, atención al cliente, procesamiento de documentos y más. Desde $5,000 USD (MVP).
+- [Gobernanza y seguridad de IA](https://monographics.com.mx/servicios.html): Guardrails, human-in-the-loop, logging, compliance y deployment on-premise. Desde $3,000 USD.
+- [Agent Ops — Operación continua](https://monographics.com.mx/servicios.html): Monitoreo 24/7, optimización de costos, actualización de modelos y reporte mensual. Desde $2,000 USD/mes.
+- [Capacitación de equipos](https://monographics.com.mx/servicios.html): Workshops para que tu equipo supervise agentes, diseñe prompts y escale automatización. Desde $1,500 USD.
+
+## Stack tecnológico
+- [Detalle completo del stack](https://monographics.com.mx/stack.html): Claude (razonamiento), Open-Claw (autonomía web), Antigravity (desarrollo), OpenCode + Hermes (orquestación), n8n (workflows), Django (web/APIs).
+
+## Casos de éxito
+- [Casos reales con métricas](https://monographics.com.mx/casos.html): Prospección inmobiliaria (200+ contactos/día), Soporte e-commerce (73% resolución autónoma), Procesamiento de facturas (500+/semana, 95% precisión).
+
+## Metodología
+- [Nuestro proceso](https://monographics.com.mx/proceso.html): 6 fases: Descubrimiento → Auditoría → Arquitectura → Prototipo MVP (48h) → Producción → Agent Ops continuo.
+
+## Blog
+- [Guía completa de IA Agéntica](https://monographics.com.mx/blog.html): Artículos educativos sobre agentes de IA, automatización y transformación digital para empresas en México y LATAM.
+
+## Contacto
+- Sitio web: https://monographics.com.mx
+- Email: hola@monographics.com
+- WhatsApp: +52 812 858 0928
+- Ubicación: Monterrey, Nuevo León, México
+- Cobertura: Toda la República Mexicana y LATAM (100% remoto)
+
+## Datos de la empresa
+- Nombre: Monographics
+- Fundación: 2024
+- Especialización: Consultoría de IA agéntica, automatización de procesos con agentes autónomos
+- Industrias atendidas: Inmobiliaria, E-commerce, Contabilidad, Manufactura, Servicios profesionales
+- Idiomas: Español, Inglés
